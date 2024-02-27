@@ -1,4 +1,6 @@
-# Define the map of Australia with its regions and their neighbors
+#This contains the code of Backtracking algorithm
+#Define the map of Australia with its regions and their neighbors
+#The only constraint is that same color should not be given to the neighbours
 australia = {
     'WA': ['NT', 'SA'],
     'NT': ['WA', 'SA', 'Q'],

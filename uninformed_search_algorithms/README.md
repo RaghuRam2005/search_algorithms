@@ -1,5 +1,5 @@
 <h1>Uninformed Search Algorithms</h1>
-<h2>This folder consists of Uninformed search algorithms<br/></h2>
+<b>This folder consists of Uninformed search algorithms<br/></b>
 <br/>
 <br/>
 file names:<br/>

@@ -1,3 +1,5 @@
+#This code is for forward checking algorithm
+#The only constarint is that the same color should not be assigned to neighbouring states
 # Define the map of Australia with its regions and their neighbors
 australia = {
     'WA': ['NT', 'SA'],
